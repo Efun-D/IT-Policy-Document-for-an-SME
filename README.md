@@ -5,7 +5,8 @@ A tailored IT policy framework for Cybercohorts Inc., covering security best pra
 ### Skills Developed
 - Cybersecurity Policy Development & Documentation
 - Regulatory & Compliance Knowledge
-- Risk Management & Control Implementation
+- Documentation & Change Management
 - Third-Party Risk & Vendor Management
 - Incident Response & Business Continuity Planning
+- Stakeholder Engagement & Communication
 - Security Awareness & Enforcement
